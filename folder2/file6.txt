@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 modify all files in branch1
+=======
+
+
+modify folder2_file6
+>>>>>>> branch2

@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 modify all files in branch1
+=======
+
+
+
+vim folder1_file5
+>>>>>>> branch2
